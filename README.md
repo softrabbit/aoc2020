@@ -1,2 +1,6 @@
-https://adventofcode.com/2020
+https://adventofcode.com/2020, "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like."
+
+I got a slow start as I didn't even know about this until the 9th, but these nevertheless seem like some fun puzzles to fill downtime with. I totally tip my hat to the people  that day after day show up in the leaderboards with solutions in like 2 minutes after the puzzle has gone public. I can barely read through them in that time, let alone code a correct implementation! Not the mention the unpredictable nature of when I get to squeeze in some coding time...
+
+So I decided to try a different path, for me it's not about speed; I'll try to get a good spread of programming languages instead, maybe even a few I honestly could say I don't know... which means that many of the solutions will be not quite the elegant (and often cryptic) ones an expert in the language would write, and not too optimal either. But by the time I commit them, they're usually correct for the task at hand. If something bugs me too much, I might revisit it later...
 
