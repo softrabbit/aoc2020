@@ -20,7 +20,7 @@ So I decided to try a different path, for me it's not about speed; I'll try to g
 |11 |           | Saved for later...
 |12 | Clojure   | Following navigation instructions using functional programming... Didn't quite figure out the intricacies of lists and arrays and how you can pass them on to the next function. Good thing there are variables, too. Java (JVM? Who knows) sticking its paw into the compilation process made for some confusing error messages. The code doesn't look too cryptic a few days later, which I count as a win.
 |13 | Scala     | Error messages sometimes even confusinger than Clojure, again I blame the layer cake architecture. Probably not a language you pick up too easily, maybe because it looks too familiar but really isn't? Had a pretty bad algorithm for synchronizing cycles, but left it running all day and it had produced an answer when I came back to improve the code... so I put that away for later.|
-|14 |           |
+|14 | Dart      | Bit juggling. Way faster compiler and more helpful error messages than in the previous two cases. Which is very nice when stumbling into solutions. |
 |15 |           |
 |16 |           |
 |17 |           |
