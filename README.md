@@ -17,11 +17,11 @@ So I decided to try a different path, for me it's not about speed; I'll try to g
 |9 | Pascal     | Ah, Turbo Pascal pirated on 5.25" floppies... those were the days. Writing a linked list felt kinda nice, even if it's been a while. Not a bad language, really.|
 |   |           | **And this is where I ran out of languages and had to go out into the uncharted waters of Schitt Creek. With several paddles, large outboard motor and plenty of gasoline but not much of a map or GPS. Fun!**
 |10 | Ruby      | Wasn't this a trendy thing a little while back? Nevertheless, doesn't feel too different from most languages I know even if the syntax is somewhat different. Didn't dive into the OO side of it, though. Traversing a list and a graph didn't require that.|
-|11 | Godot     | Not bad for a tool with so much depth in it. For problem solving, the event driven model isn't alway optimal but you sure can make your Game of Life-ish thing pretty.
+|11 | Godot     | Not bad for a tool with so much depth in it. For problem solving, the event driven model isn't always optimal but you sure can make your Game of Life-ish thing pretty.
 |12 | Clojure   | Following navigation instructions using functional programming... Didn't quite figure out the intricacies of lists and arrays and how you can pass them on to the next function. Good thing there are variables, too. Java (JVM? Who knows) sticking its paw into the compilation process made for some confusing error messages. The code doesn't look too cryptic a few days later, which I count as a win.
 |13 | Scala     | Error messages sometimes even confusinger than Clojure, again I blame the layer cake architecture. Probably not a language you pick up too easily, maybe because it looks too familiar but really isn't? Had a pretty bad algorithm for synchronizing cycles, but left it running all day and it had produced an answer when I came back to improve the code... so I put that away for later.|
 |14 | Dart      | Bit juggling. Way faster compiler and more helpful error messages than in the previous two cases. Which is very nice when stumbling into solutions. |
-|15 |           |
+|15 | C++       | Number sequence from a simple rule. Calculate and stuff into a std::map or equivalent.
 |16 |           |
 |17 |           |
 |18 |           |
